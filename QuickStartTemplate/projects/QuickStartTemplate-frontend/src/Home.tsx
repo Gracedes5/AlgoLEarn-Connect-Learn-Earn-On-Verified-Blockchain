@@ -50,9 +50,9 @@ const Home: React.FC<HomeProps> = () => {
           <AiOutlineWallet />
           <span>Powered by Algorand</span>
         </div>
-        <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-3">Learn at $1. Earn fairly. Verified Skills.</h1>
+        <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-3">Learn at $1. Earn fairly. Verified Education.</h1>
         <p className="text-gray-600 max-w-xl mb-8">
-          AlgoLearn is reimagining how young learners and educators grow. We combine accessibility and affordability with the trust of
+          AlgoLEarn is reimagining how young learners and educators grow. We combine accessibility and affordability with the trust of
           Algorand blockchain to create a learning experience that rewards everyone. Learn confidently. Earn transparently. Grow
           sustainably.
         </p>
